@@ -9,8 +9,7 @@
 
 
 
-<br>
-
+<br><br>
 > Java <br>
 
 [Java는 플랫폼 독립적이다?](https://crayeji.tistory.com/102) <br>
@@ -21,6 +20,8 @@
 [System.out.println()으로 Java의 많은 것을 설명해보자!](https://crayeji.tistory.com/111) <br>
 
 
+
+<br><br>
 > 쇼핑몰 리팩토링<br>
 
 [검색 조건 유지(feat. Object Scope)](https://crayeji.tistory.com/112) <br>
