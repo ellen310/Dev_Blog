@@ -32,4 +32,4 @@
 > Spring<br>
 
 [[Spring] File Upload 1](https://crayeji.tistory.com/118) <br>
-[[Spring]File Upload 2](https://crayeji.tistory.com/119) <br>
+[[Spring] File Upload 2](https://crayeji.tistory.com/119) <br>
