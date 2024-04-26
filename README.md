@@ -42,6 +42,5 @@
 
 
 <br><br>
-> React<br>
+> Cloud<br>
 
-[리액트 프로젝트 시작과 배포](https://crayeji.tistory.com/120) <br>
