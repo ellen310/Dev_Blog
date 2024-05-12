@@ -51,3 +51,4 @@
 [Container, Image, Docker개념을 쉽게 이해하기](https://crayeji.tistory.com/131) <br>
 [Linux서버에 Docker설치, Container (생성-실행-정지-삭제)](https://crayeji.tistory.com/129) <br>
 [run 명령어, Port-forwarding](https://crayeji.tistory.com/130) <br>
+[dit 옵션, Container에 구축한 WAS에 웹 애플리케이션 배포하기](https://crayeji.tistory.com/131) <br>
