@@ -54,9 +54,4 @@
 > Docker<br>
 
 [Container, Image, Docker개념을 쉽게 이해하기](https://crayeji.tistory.com/131) <br>
-[NAT Gateway란? (NAVERCloud에서 NAT 생성과 적용)](https://crayeji.tistory.com/126) <br>
-
-<br><br>
-> Docker<br>
-
-[Container, Image, Docker개념을 쉽게 이해하기](https://crayeji.tistory.com/126) <br>
+[Linux서버에 Docker설치, Container (생성-실행-정지-삭제)](https://crayeji.tistory.com/129) <br>
