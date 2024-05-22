@@ -43,6 +43,7 @@
 
 [Cloud Server생성으로 Cloud기본 이해하기](https://crayeji.tistory.com/125) <br>
 [NAT Gateway란? (NAVERCloud에서 NAT 생성과 적용)](https://crayeji.tistory.com/126) <br>
+[Global DNS](https://crayeji.tistory.com/128)<br>
 
 
 <br><br>
