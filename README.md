@@ -48,8 +48,6 @@
 
 <br><br>
 > CI/CD<br>
-
-<br><br>
 > Docker<br>
 
 [Container, Image, Docker개념을 쉽게 이해하기](https://crayeji.tistory.com/131) <br>
